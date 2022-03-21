@@ -15,7 +15,7 @@ conda env create -f airnet.yaml
 ```
 
 ## Demo
-You could download the pre-trained model from [[Google Drive](https://drive.google.com/drive/folders/1DS_iJsP5Epzz78fZRz8lEINcnhBF6Uws?usp=sharing)] and [[Baidu Netdisk](https://pan.baidu.com/s/1usrpGA8FIyj1ogsZQE_Emg)] (password: cr7d). Remember to put the pre-trained model into ckpt/
+You could download the pre-trained model from [Google Drive](https://drive.google.com/drive/folders/1DS_iJsP5Epzz78fZRz8lEINcnhBF6Uws?usp=sharing) and [Baidu Netdisk](https://pan.baidu.com/s/1usrpGA8FIyj1ogsZQE_Emg) (password: cr7d). Remember to put the pre-trained model into ckpt/
 
 If you only need the visual results, you could put the test images into test/demo/ and use the following command to restore the test image:
 
