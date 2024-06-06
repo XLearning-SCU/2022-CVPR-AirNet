@@ -5,7 +5,7 @@ parser = argparse.ArgumentParser()
 # Input Parameters
 parser.add_argument('--cuda', type=int, default=0)
 
-parser.add_argument('--epochs', type=int, default=1000, help='maximum number of epochs to train the total model.')
+parser.add_argument('--epochs', type=int, default=100, help='maximum number of epochs to train the total model.')
 parser.add_argument('--epochs_encoder', type=int, default=100, help='number of epochs to train encoder.')
 parser.add_argument('--lr', type=float, default=1e-3, help='learning rate of encoder.')
 
