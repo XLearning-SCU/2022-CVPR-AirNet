@@ -18,7 +18,7 @@ conda env create -f airnet.yaml
 
 You could find the dataset we used in the paper at following:
 
-Denoising: [BSD400](https://drive.google.com/file/d/1idKFDkAHJGAFDn1OyXZxsTbOSBx9GS8N/view?usp=sharing), [WED]([https://ece.uwaterloo.ca/~k29ma/exploration](http://ivc.uwaterloo.ca/database/WaterlooExploration/exploration_database_and_code.rar)), [Urban100](https://drive.google.com/drive/folders/1B3DJGQKB6eNdwuQIhdskA64qUuVKLZ9u)
+Denoising: [BSD400](https://drive.google.com/file/d/1idKFDkAHJGAFDn1OyXZxsTbOSBx9GS8N/view?usp=sharing), [WED](http://ivc.uwaterloo.ca/database/WaterlooExploration/exploration_database_and_code.rar), [Urban100](https://drive.google.com/drive/folders/1B3DJGQKB6eNdwuQIhdskA64qUuVKLZ9u)
 
 Deraining: [Train100L&Rain100L](https://drive.google.com/drive/folders/1-_Tw-LHJF4vh8fpogKgZx1EQ9MhsJI_f?usp=sharing)
 
